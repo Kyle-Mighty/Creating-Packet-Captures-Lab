@@ -2,8 +2,6 @@
 ---
 # Objective 
  - Create a Packet Capture using Wireshark
- - Create a Packet Capture within the Palo Alto Networks Firewall 
- - Analyze PCAP Files with Wireshark
 ---
 
 # Tools Used
@@ -76,8 +74,12 @@
 ###  In the Save file as window, click on Desktop on the left. Then, type packetcapture in the File name field. Finally, click Save.
 <img width="653" height="511" alt="Step 22" src="https://github.com/user-attachments/assets/dfdfa6ff-81fd-4162-8f23-bcc42f56015b" />
 
-# Results of Lab 
-
+# Results of Lab/ What was demostrated 
+### - Packet Capture Creation
+### - Firewall Configuration
+### - Traffic analysis
+### - HTTP/TCP/DNS/ARP analysis
+### I Captured and analyzed DNS, TCP, ARP, and HTTP traffic using Wireshark to understand network communication flow and protocol behavior.
 ### When I used Wireshark, I located the ARP request who has 192.168.1.254 which is one line 215 followed by the reply 192.186.1.1 which is on line 216. The DNS is at line 217 the that says standard query 0xa7e7 A clients1.google.com
 <img width="1048" height="520" alt="Results of Lab" src="https://github.com/user-attachments/assets/0c556b5b-3161-4163-a358-a72dc78b7219" />
 
