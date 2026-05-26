@@ -67,7 +67,7 @@
 ### In the Search bar type http://www.panlabs.com and press Enter.
 <img width="535" height="69" alt="Step 19" src="https://github.com/user-attachments/assets/c8d99e52-20a6-47b3-a63a-c9fca744c3ef" />
 
-### After pressing enter Wait 5 to 10 seconds and reopen Wireshark and then click the Stop capturing packets button. 
+### After pressing enter Wait 5 to 10 seconds and reopen Wireshark and then click the Stop capturing packets button. The packets have been created
 <img width="1194" height="579" alt="Step 20" src="https://github.com/user-attachments/assets/86eeb688-43fc-4fa5-8edf-d8ce20c5e5c6" />
 
 ### To save the Wireshark packet capture, click on File > Save As
