@@ -1,4 +1,4 @@
-# Creating-and-Analyzing-Packets-Lab
+# Creating-Packet-Captures-Lab
 ---
 # Objective 
  - Create a Packet Capture using Wireshark
